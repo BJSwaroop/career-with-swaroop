@@ -1,0 +1,245 @@
+{
+  "site": {
+    "brand": "Career with Swaroop",
+    "handle": "@careerwithswaroop",
+    "whatsapp": "https://chat.whatsapp.com/FptEOqWrVwb2ycFBE4UAbD",
+    "whatsappLabel": "Join the WhatsApp community",
+    "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
+    "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
+    "verifiedOn": "2026-08-08",
+    "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
+  },
+  "opportunities": [
+    {
+      "slug": "portals",
+      "keyword": "PORTALS",
+      "title": "7 government portals",
+      "subtitle": "Internships, scholarships, free certification. Anni official.",
+      "expiresOn": "2026-08-24",
+      "expiryNote": "Ee page August 24 tarvatha close avutundi.",
+      "facts": [],
+      "linkGroups": [
+        {
+          "heading": "Internships",
+          "links": [
+            {
+              "label": "PM Internship Scheme",
+              "note": "Paid, Rs 9,000/month",
+              "url": "https://pminternship.mca.gov.in/"
+            },
+            {
+              "label": "AICTE Internship Portal",
+              "note": "Verified companies, free",
+              "url": "https://internship.aicte-india.org/"
+            }
+          ]
+        },
+        {
+          "heading": "Scholarships",
+          "links": [
+            {
+              "label": "National Scholarship Portal",
+              "note": "Central schemes",
+              "url": "https://scholarships.gov.in/"
+            },
+            {
+              "label": "Telangana ePASS",
+              "note": "TG students",
+              "url": "https://telanganaepass.cgg.gov.in/"
+            },
+            {
+              "label": "AP Jnanabhumi",
+              "note": "AP students",
+              "url": "https://jnanabhumi.ap.gov.in/"
+            }
+          ]
+        },
+        {
+          "heading": "Free courses and certification",
+          "links": [
+            {
+              "label": "SWAYAM",
+              "note": "IIT and IISc courses, free",
+              "url": "https://swayam.gov.in/"
+            },
+            {
+              "label": "Skill India Digital",
+              "note": "Free skill courses",
+              "url": "https://www.skillindiadigital.gov.in/"
+            }
+          ]
+        }
+      ],
+      "footNote": "Prathi scheme ki deadline veru veru untundi. Official site lo okasari chuskO."
+    },
+    {
+      "slug": "intern",
+      "keyword": "INTERN",
+      "title": "PM Internship Scheme",
+      "subtitle": "Nelaki Rs 9,000. Plus Rs 6,000 one time.",
+      "facts": [
+        {
+          "k": "Stipend",
+          "v": "Rs 9,000 / month"
+        },
+        {
+          "k": "One time grant",
+          "v": "Rs 6,000"
+        },
+        {
+          "k": "Age",
+          "v": "18 to 25 years"
+        },
+        {
+          "k": "Family income",
+          "v": "Under Rs 12 lakh / year"
+        },
+        {
+          "k": "Live internships",
+          "v": "1,58,000+"
+        },
+        {
+          "k": "Sectors",
+          "v": "31"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "pminternship.mca.gov.in",
+              "note": "Official portal",
+              "url": "https://pminternship.mca.gov.in/",
+              "primary": true
+            }
+          ]
+        }
+      ],
+      "footNote": "Final year UG and PG students kuda eligible. College nunchi NOC letter kavali."
+    },
+    {
+      "slug": "verified",
+      "keyword": "VERIFIED",
+      "title": "AICTE Internship Portal",
+      "subtitle": "Google, Microsoft, Cisco. Apply cheyadaniki free.",
+      "facts": [
+        {
+          "k": "Cost",
+          "v": "Free"
+        },
+        {
+          "k": "Who can apply",
+          "v": "AICTE approved college students"
+        },
+        {
+          "k": "Streams",
+          "v": "Engineering, pharmacy, management, architecture, diploma"
+        },
+        {
+          "k": "Types",
+          "v": "Internships, apprenticeships, PPOs"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "internship.aicte-india.org",
+              "note": "Official portal",
+              "url": "https://internship.aicte-india.org/",
+              "primary": true
+            }
+          ]
+        }
+      ],
+      "footNote": "Companies listed on the portal today: Google, Microsoft, Cisco, IBM, Salesforce, VMware, ServiceNow, Indian Army and several ministries."
+    },
+    {
+      "slug": "eligible",
+      "keyword": "ELIGIBLE",
+      "title": "Final year? Ippudu eligible.",
+      "subtitle": "PM Internship rule maarindi. NOC letter kavali antey.",
+      "facts": [
+        {
+          "k": "Who",
+          "v": "Final year UG and PG students"
+        },
+        {
+          "k": "Age",
+          "v": "18 to 25 years"
+        },
+        {
+          "k": "Stipend",
+          "v": "Rs 9,000 / month + Rs 6,000 one time"
+        },
+        {
+          "k": "Extra document",
+          "v": "NOC from your college"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "pminternship.mca.gov.in",
+              "note": "Official portal",
+              "url": "https://pminternship.mca.gov.in/",
+              "primary": true
+            }
+          ]
+        }
+      ],
+      "noc": {
+        "heading": "NOC letter lo em undali",
+        "points": [
+          "College letterhead meeda undali.",
+          "HOD, Dean, Principal or Placement Officer sign cheyali.",
+          "Ee internship valla academics ki problem raadhu ani rasi undali.",
+          "Student peru, course, and year clear ga undali."
+        ]
+      },
+      "footNote": "NOC format prathi college ki koncham veru untundi. Mee placement office ni adagandi."
+    },
+    {
+      "slug": "merit",
+      "keyword": "MERIT",
+      "title": "CSSS Scholarship",
+      "subtitle": "Central Sector Scheme of Scholarship. Last date October 31.",
+      "facts": [
+        {
+          "k": "Deadline",
+          "v": "31 October 2026"
+        },
+        {
+          "k": "Institute verification",
+          "v": "15 November 2026"
+        },
+        {
+          "k": "Type",
+          "v": "Merit based"
+        },
+        {
+          "k": "Who",
+          "v": "UG and PG regular degree students"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "scholarships.gov.in",
+              "note": "National Scholarship Portal",
+              "url": "https://scholarships.gov.in/",
+              "primary": true
+            }
+          ]
+        }
+      ],
+      "footNote": "Apply chese mundu One Time Registration (OTR) cheyali. Daniki time padutundi, so last week varaku wait cheyakandi. Scholarship amount and income limit scheme guideline lo untundi, portal lo chuskO."
+    }
+  ]
+}
