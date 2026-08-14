@@ -6,10 +6,62 @@
     "whatsappLabel": "Join the WhatsApp community",
     "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
     "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
-    "verifiedOn": "2026-08-08",
+    "verifiedOn": "2026-08-14",
     "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
   },
   "opportunities": [
+    {
+      "slug": "railway",
+      "keyword": "RAILWAY",
+      "title": "RRB Junior Engineer 2026",
+      "subtitle": "3,993 posts. Basic pay Rs 35,400 per month. Last date September 13.",
+      "expiresOn": "2026-09-13",
+      "expiryNote": "Application window September 13 tho close avutundi.",
+      "facts": [
+        {
+          "k": "Posts",
+          "v": "Junior Engineer + Depot Material Superintendent"
+        },
+        {
+          "k": "Vacancies",
+          "v": "3,993 (all India, CEN 04/2026)"
+        },
+        {
+          "k": "Pay",
+          "v": "Level 6, basic Rs 35,400 / month"
+        },
+        {
+          "k": "Age",
+          "v": "18 to 33 years (as on 01.01.2027)"
+        },
+        {
+          "k": "Eligibility",
+          "v": "3-year Engineering Diploma or BE / BTech in the matching stream"
+        },
+        {
+          "k": "Fee",
+          "v": "Rs 500 (Rs 400 refund after CBT-1). Rs 250 for SC / ST / Female / Minorities / EBC, refunded after CBT-1"
+        },
+        {
+          "k": "Last date",
+          "v": "13 September 2026, 11:59 PM"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "rrbapply.gov.in",
+              "note": "Official application portal",
+              "url": "https://www.rrbapply.gov.in/",
+              "primary": true
+            }
+          ]
+        }
+      ],
+      "footNote": "Qualification certificate 13 September lopu chetilo undali. Final results awaited unte ee cycle ki apply cheyalevu. Age relaxation: OBC-NCL +3 years, SC/ST +5 years. Selection: CBT-1, CBT-2, document verification, medical. Detailed notification (CEN 04/2026 PDF) mee RRB website lo download cheyochu."
+    },
     {
       "slug": "portals",
       "keyword": "PORTALS",
@@ -96,7 +148,7 @@
         },
         {
           "k": "Live internships",
-          "v": "1,58,000+"
+          "v": "1,68,000+"
         },
         {
           "k": "Sectors",
