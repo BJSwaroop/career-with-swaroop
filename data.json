@@ -6,10 +6,124 @@
     "whatsappLabel": "Join the WhatsApp community",
     "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
     "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
-    "verifiedOn": "2026-08-18",
+    "verifiedOn": "2026-08-21",
     "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
   },
   "opportunities": [
+    {
+      "slug": "iocl",
+      "keyword": "IOCL",
+      "title": "Indian Oil Recruitment of Executives 2026",
+      "subtitle": "470 posts. Graduate Engineer basic Rs 50,000 per month. GATE score avasaram ledu. Last date September 3.",
+      "expiresOn": "2026-09-03",
+      "expiryNote": "Online application September 3, 2026 sayantram 5 gantalaki (1700 hrs) close avutundi.",
+      "facts": [
+        {
+          "k": "Advertisement",
+          "v": "IOCL/CO-HR/RECTT/2026/01, dated 14 August 2026. Recruitment of Executives through Computer Based Test (CBT) 2026"
+        },
+        {
+          "k": "Total vacancies",
+          "v": "470. Grade A 411, Grade A0 9, Grade E0 50"
+        },
+        {
+          "k": "GATE",
+          "v": "GATE score avasaram ledu. Selection IOCL sonta CBT dwara. CBT 85 percent, Group Discussion and Group Task 5 percent, Personal Interview 10 percent"
+        },
+        {
+          "k": "Graduate Engineer (Grade A) pay",
+          "v": "Initial basic Rs 50,000 per month. Pay scale Rs 50,000 to 1,60,000. Approx CTC per annum Rs 18.4 lakhs"
+        },
+        {
+          "k": "Diploma Engineer (Grade E0) pay",
+          "v": "Initial basic Rs 30,000 per month. Pay scale Rs 30,000 to 1,20,000. Approx CTC per annum Rs 11.1 lakhs"
+        },
+        {
+          "k": "Asst Quality Control Officer (Grade A0) pay",
+          "v": "Initial basic Rs 40,000 per month. Pay scale Rs 40,000 to 1,40,000. Approx CTC per annum Rs 14.8 lakhs"
+        },
+        {
+          "k": "Grade A engineering vacancies",
+          "v": "Mechanical 118, Electrical 75, Civil 62, Instrumentation 35, Electronics & Communication 32, Computer Science and IT 22, Chemical 16"
+        },
+        {
+          "k": "Grade A non-engineering vacancies",
+          "v": "Marketing 41, Law 10"
+        },
+        {
+          "k": "Grade E0 (Diploma) vacancies",
+          "v": "Mechanical 21, Safety 15, Electrical 14"
+        },
+        {
+          "k": "Graduate Engineer eligibility",
+          "v": "Full-time regular BE / BTech / equivalent. General, EWS, OBC(NCL) 65 percent marks. SC, ST, PwBD 55 percent marks"
+        },
+        {
+          "k": "Diploma Engineer eligibility",
+          "v": "Full-time regular 3-year Diploma in Engineering. General, EWS, OBC(NCL) 65 percent. SC, ST, PwBD 55 percent. BE / BTech / MBA / MCA / CA / CS / CMA / PhD unna vaallu ee post ki eligible kaadu"
+        },
+        {
+          "k": "Combined disciplines",
+          "v": "Mechatronics, Robotics laanti combined or inter-disciplinary degrees eligible kaadu"
+        },
+        {
+          "k": "Age limit",
+          "v": "Graduate Engineer and Diploma Engineer 26 years as on 01 July 2026 (General / EWS). Officer (Marketing) 28. Law Officer and Asst Quality Control Officer 30. OBC(NCL), SC, ST ki relaxation undi"
+        },
+        {
+          "k": "Final year students",
+          "v": "Apply cheyochu. Kani final degree or marksheet 30 September 2026 lopu produce cheyagaligi undali"
+        },
+        {
+          "k": "Application fee",
+          "v": "Rs 1,000 plus GST. SC, ST, PwBD candidates ki fee ledu. Fee refund undadu"
+        },
+        {
+          "k": "Application window",
+          "v": "14 August 2026 nunchi 3 September 2026, 1700 hrs varaku"
+        },
+        {
+          "k": "CBT date",
+          "v": "24 September 2026. Admit card 15 September 2026 (tentative)"
+        },
+        {
+          "k": "Exam pattern",
+          "v": "100 objective MCQs, 150 minutes. Section A General Aptitude 50 marks, Section B Domain Knowledge 50 marks. Prathi tappu answer ki 0.25 marks negative"
+        },
+        {
+          "k": "AP and Telangana exam centres",
+          "v": "Hyderabad, Visakhapatnam, Guntur, Kakinada, Rajahmundry, Vizianagaram, Kadapa, Warangal, Karimnagar"
+        },
+        {
+          "k": "Service bond",
+          "v": "3 years. Grade A Rs 3 lakhs (General), Rs 50,000 (EWS, OBC-NCL, SC, ST, PwBD). Grade A0 and E0 Rs 2 lakhs (General), Rs 35,000 (EWS, OBC-NCL, SC, ST, PwBD)"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "IOCL Latest Job Opening",
+              "note": "Official page. Apply Online link ikkade undi",
+              "url": "https://iocl.com/latest-job-opening",
+              "primary": true
+            },
+            {
+              "label": "Detailed Advertisement (PDF)",
+              "note": "Official 31-page notification dated 14 August 2026",
+              "url": "https://iocl.com/admin/img/UploadedFiles/LatestJobOpening/Files/DetailedAd14082026.pdf"
+            },
+            {
+              "label": "Vacancy details (PDF)",
+              "note": "Official discipline-wise vacancy table",
+              "url": "https://iocl.com/admin/img/UploadedFiles/LatestJobOpening/Files/Vacancies14082026.pdf"
+            }
+          ]
+        }
+      ],
+      "footNote": "Anni numbers 21 August 2026 na IOCL official website lo verify chesanu. Vacancy numbers official vacancy PDF nunchi. Pay, eligibility, age, fee anni official detailed advertisement nunchi. IOCL prakaram total vacancies management discretion tho penchavachu leda thaggichavachu. Complete eligibility conditions, disciplines full list, reservation rules anni official notification lo unnayi, apply cheyyadaniki mundu adi chadavandi. Idi awareness kosam matrame. Ee page ki IOCL tho gani government tho gani elanti sambandham ledu. Selection guarantee ledu."
+    },
     {
       "slug": "pragati",
       "keyword": "PRAGATI",
@@ -80,17 +194,17 @@
       "slug": "railway",
       "keyword": "RAILWAY",
       "title": "RRB Junior Engineer 2026",
-      "subtitle": "3,993 posts. Basic pay Rs 35,400 per month. Last date September 13.",
+      "subtitle": "Almost 4,000 posts. Basic pay Rs 35,400 per month. Last date September 13.",
       "expiresOn": "2026-09-13",
       "expiryNote": "Application window September 13 tho close avutundi.",
       "facts": [
         {
           "k": "Posts",
-          "v": "Junior Engineer + Depot Material Superintendent"
+          "v": "Junior Engineer + Depot Material Superintendent + Chemical & Metallurgical Assistant"
         },
         {
           "k": "Vacancies",
-          "v": "3,993 (all India, CEN 04/2026)"
+          "v": "3,993 in the original CEN 04/2026. Corrigendum-1 (18 Aug 2026) added more, so the live total is slightly higher."
         },
         {
           "k": "Pay",
@@ -103,6 +217,10 @@
         {
           "k": "Eligibility",
           "v": "3-year Engineering Diploma or BE / BTech in the matching stream"
+        },
+        {
+          "k": "New post added",
+          "v": "Chemical & Metallurgical Assistant (Level 6) was added on 18 Aug 2026. Adhi B.Sc Physics + Chemistry, 45% marks. Engineering kaadu."
         },
         {
           "k": "Fee",
@@ -126,7 +244,7 @@
           ]
         }
       ],
-      "footNote": "Qualification certificate 13 September lopu chetilo undali. Final results awaited unte ee cycle ki apply cheyalevu. Age relaxation: OBC-NCL +3 years, SC/ST +5 years. Selection: CBT-1, CBT-2, document verification, medical. Detailed notification (CEN 04/2026 PDF) mee RRB website lo download cheyochu."
+      "footNote": "Qualification certificate 13 September lopu chetilo undali. Final results awaited unte ee cycle ki apply cheyalevu. Age relaxation: OBC-NCL +3 years, SC/ST +5 years. Selection: CBT-1, CBT-2, document verification, medical. Fee payment last date 15 September 2026. Corrigendum-1 (18 Aug 2026) chadavandi, vacancy table maarindi. Detailed notification (CEN 04/2026 PDF) mee RRB website lo download cheyochu."
     },
     {
       "slug": "portals",
@@ -358,6 +476,245 @@
         }
       ],
       "footNote": "Apply chese mundu One Time Registration (OTR) cheyali. Daniki time padutundi, so last week varaku wait cheyakandi. Scholarship amount and income limit scheme guideline lo untundi, portal lo chuskO."
+    },
+    {
+      "slug": "coaching",
+      "keyword": "COACHING",
+      "title": "Free Coaching Scheme for SC, OBC and PM CARES children",
+      "subtitle": "Coaching fee government kadutundi. Plus nelaki Rs 4,000 stipend. Last date 31 October 2026.",
+      "expiresOn": "2026-10-31",
+      "expiryNote": "NSP lo application window 31 October 2026 tho close avutundi.",
+      "facts": [
+        {
+          "k": "What you get",
+          "v": "Course fee paid by the government + Rs 4,000 per month stipend for the actual months of coaching, maximum 12 months"
+        },
+        {
+          "k": "Exams covered",
+          "v": "UPSC and State PSC, SSC, RRB (Railway), Banking / Insurance / PSU, JEE, NEET, IES, GATE, CAT, CLAT, GRE / GMAT / SAT / IELTS / TOEFL, NDA / CDS, CPL"
+        },
+        {
+          "k": "Fee ceiling",
+          "v": "GATE, IES, JEE, NEET and Civil Services up to Rs 75,000. Banking / PSU / CLAT and CAT up to Rs 50,000. SSC and RRB up to Rs 40,000. GRE / GMAT / SAT / IELTS / TOEFL up to Rs 35,000. NDA / CDS up to Rs 20,000"
+        },
+        {
+          "k": "Extra",
+          "v": "Rs 15,000 interview-coaching incentive for students clearing the Mains stage of Central or State Civil Services (Class 1 and Class 2 posts)"
+        },
+        {
+          "k": "Seats",
+          "v": "3,500 students selected per year across empanelled Central Universities"
+        },
+        {
+          "k": "Who can apply",
+          "v": "SC and OBC students with family income Rs 8 lakh or less per year. PM CARES Children Scheme beneficiaries have no income or caste restriction"
+        },
+        {
+          "k": "Marks cut-off",
+          "v": "Minimum 50% in Class X. For exams where the qualifying stage is a UG degree, minimum 50% in Class XII"
+        },
+        {
+          "k": "Limit",
+          "v": "A student can take the benefit a maximum of two times"
+        },
+        {
+          "k": "Last date",
+          "v": "31 October 2026 (student application on NSP)"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "scholarships.gov.in",
+              "note": "National Scholarship Portal. OTR first, then apply.",
+              "url": "https://scholarships.gov.in/",
+              "primary": true
+            },
+            {
+              "label": "Scheme guidelines (PDF)",
+              "note": "Official guidelines with the full fee and stipend table",
+              "url": "https://scholarships.gov.in/public/schemeGuidelines/guid_3108.pdf"
+            }
+          ]
+        }
+      ],
+      "footNote": "Coaching Central Universities lo jarugutundi, vaatini Dr. Ambedkar Centre of Excellence ani antaru. Aadhaar based biometric attendance untundi. Vere e coaching scheme lo unna vaallu deeniki apply cheyalemu. Scheme NSP lo 3 August 2026 nunchi open ayindi."
+    },
+    {
+      "slug": "cma",
+      "keyword": "CMA",
+      "title": "Railway Chemical & Metallurgical Assistant 2026",
+      "subtitle": "Kotha post. Basic pay Rs 35,400 per month. B.Sc Physics + Chemistry. Last date September 13.",
+      "expiresOn": "2026-09-13",
+      "expiryNote": "Application window September 13 tho close avutundi.",
+      "facts": [
+        {
+          "k": "Post",
+          "v": "Chemical & Metallurgical Assistant (CMA), Mechanical department, CMT sub-department"
+        },
+        {
+          "k": "Pay",
+          "v": "Level 6, basic Rs 35,400 per month"
+        },
+        {
+          "k": "Eligibility",
+          "v": "B.Sc degree with Physics and Chemistry, minimum 45% marks, from a recognised University or Institute"
+        },
+        {
+          "k": "Exact B.Sc combinations allowed",
+          "v": "Physics major with Chemistry as a subject, OR Chemistry major with Physics as a subject, OR any other Science major (including Maths / Mathematical Statistics) with both Physics and Chemistry as subjects"
+        },
+        {
+          "k": "Why most people missed it",
+          "v": "This post was NOT in the original CEN 04/2026 published on 13 August 2026. It was added by Corrigendum-1 on 18 August 2026"
+        },
+        {
+          "k": "Last date",
+          "v": "13 September 2026, 11:59 PM"
+        },
+        {
+          "k": "Fee payment",
+          "v": "15 September 2026"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "rrbapply.gov.in",
+              "note": "Official RRB application portal",
+              "url": "https://www.rrbapply.gov.in/",
+              "primary": true
+            }
+          ]
+        }
+      ],
+      "footNote": "Idi engineering post kaadu. B.Sc Physics and Chemistry chesina vaallaki matrame. Corrigendum-1 lo vacancy table kuda maarindi, so official PDF ni oka sari chadavandi. Medical standard B1. Application window CEN 04/2026 dhe, adhi 14 August 2026 nunchi open undi."
+    },
+    {
+      "slug": "swanath",
+      "keyword": "SWANATH",
+      "title": "AICTE Swanath Scholarship 2026-27",
+      "subtitle": "Rs 50,000 per year. Only 2,000 scholarships. Last date 31 October 2026.",
+      "expiresOn": "2026-10-31",
+      "expiryNote": "NSP lo application window 31 October 2026 tho close avutundi.",
+      "facts": [
+        {
+          "k": "Amount",
+          "v": "Rs 50,000 per year, for every year of study"
+        },
+        {
+          "k": "Seats",
+          "v": "Maximum 2,000 per year (1,000 for Degree students, 1,000 for Diploma students)"
+        },
+        {
+          "k": "Who can apply (any one)",
+          "v": "Orphan, OR either or both parents died due to Covid-19, OR ward of Armed Forces / Central Paramilitary Forces martyred in action, OR a parent suffering a critical life threatening disease such as cancer, or died, or severely disabled above 80% in an accident"
+        },
+        {
+          "k": "Year of study",
+          "v": "Currently studying Degree or Diploma in regular mode, 1st, 2nd, 3rd or 4th year, in an AICTE approved institution"
+        },
+        {
+          "k": "Income",
+          "v": "Family income Rs 8 lakh or less per year"
+        },
+        {
+          "k": "Important condition",
+          "v": "You must NOT already be receiving any Central Government, State Government or AICTE sponsored scholarship"
+        },
+        {
+          "k": "Selection",
+          "v": "On merit of the qualifying exam. Class 12 marks for Degree, Class 10 marks for Diploma"
+        },
+        {
+          "k": "Last date",
+          "v": "31 October 2026 (student application on NSP)"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "scholarships.gov.in",
+              "note": "National Scholarship Portal. OTR first, then apply.",
+              "url": "https://scholarships.gov.in/",
+              "primary": true
+            },
+            {
+              "label": "Scheme guidelines (PDF)",
+              "note": "Official AICTE Swanath guidelines",
+              "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3039_G.pdf"
+            }
+          ]
+        }
+      ],
+      "footNote": "Aadhaar number mandatory. Orphan students ki Tehsildar leda SDM certificate kavali. Covid case lo death certificate lo Covid ani explicitly undali. Institute verification 15 November 2026 varaku, so last minute varaku aagakandi."
+    },
+    {
+      "slug": "saksham",
+      "keyword": "SAKSHAM",
+      "title": "AICTE Saksham Scholarship 2026-27",
+      "subtitle": "Rs 50,000 per year for specially-abled technical students. Last date 31 October 2026.",
+      "expiresOn": "2026-10-31",
+      "expiryNote": "NSP lo application window 31 October 2026 tho close avutundi.",
+      "facts": [
+        {
+          "k": "Amount",
+          "v": "Rs 50,000 per year, maximum 4 years (3 years if you joined via lateral entry)"
+        },
+        {
+          "k": "Seats",
+          "v": "The scheme guidelines do not fix a seat limit. They say all eligible students admitted as above will get the scholarship"
+        },
+        {
+          "k": "Who can apply",
+          "v": "Specially-abled students with disability of not less than 40%"
+        },
+        {
+          "k": "Year of study",
+          "v": "Admitted to First year of a Degree course, OR Second year through lateral entry, in an AICTE approved institution"
+        },
+        {
+          "k": "Income",
+          "v": "Family income Rs 8 lakh or less per year, with a valid State / UT income certificate"
+        },
+        {
+          "k": "Gap rule",
+          "v": "Gap between passing the qualifying exam and admission must not be more than two years"
+        },
+        {
+          "k": "Important condition",
+          "v": "You must NOT be receiving any other scholarship, stipend or salary during the course"
+        },
+        {
+          "k": "Last date",
+          "v": "31 October 2026 (student application on NSP)"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "scholarships.gov.in",
+              "note": "National Scholarship Portal. OTR first, then apply.",
+              "url": "https://scholarships.gov.in/",
+              "primary": true
+            },
+            {
+              "label": "Scheme guidelines (PDF)",
+              "note": "Official AICTE Saksham guidelines (Degree)",
+              "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2012_G.pdf"
+            }
+          ]
+        }
+      ],
+      "footNote": "Diploma students ki separate Saksham scheme undi, adhi kuda NSP lo ade date varaku open undi. Renewal ki prathi year marksheet upload cheyali. Class fail ayithe scholarship pothundi."
     }
   ]
 }
