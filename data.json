@@ -6,10 +6,126 @@
     "whatsappLabel": "Join the WhatsApp community",
     "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
     "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
-    "verifiedOn": "2026-08-21",
+    "verifiedOn": "2026-08-22",
     "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
   },
   "opportunities": [
+    {
+      "slug": "apprentice",
+      "keyword": "APPRENTICE",
+      "title": "BEML Apprentices 2026-27",
+      "subtitle": "1,346 training slots. BTech ki nelaki Rs 12,300 stipend. Written exam ledu, interview ledu, application fee ledu. Last date September 8.",
+      "expiresOn": "2026-09-08",
+      "expiryNote": "Online registration September 8, 2026 ratri 11 gantalaki (2300 hrs) close avutundi.",
+      "facts": [
+        {
+          "k": "Advertisement",
+          "v": "L&D/01/2026, dated 18 August 2026. Engagement of Apprentices under the Apprentices Act, 1961, for FY 2026-27"
+        },
+        {
+          "k": "Company",
+          "v": "BEML Limited, a Government of India Enterprise under the Ministry of Defence"
+        },
+        {
+          "k": "Total training slots",
+          "v": "1,346. Bangalore Complex 400, KGF Complex 608, Mysore Complex 227, Palakkad Complex 111. Notification prakaram ee numbers provisional, company requirement batti maaravachu"
+        },
+        {
+          "k": "Stipend",
+          "v": "Graduate (Technical) 4-year full time Engineering Rs 12,300 per month. Graduate (General) 3-year B.Sc / B.Com / BCA / BBA Rs 12,300. Diploma 3-year full time Rs 10,900. ITI Rs 9,600 leda Rs 10,560, trade batti"
+        },
+        {
+          "k": "Engineering branches",
+          "v": "Mechanical, Electrical & Electronics, Civil, Computer Science, Electronics & Communication, Automobile, Information Science, E&T, AI & ML, Aeronautical"
+        },
+        {
+          "k": "Duration",
+          "v": "One year. Joining date nunchi one year tho co-terminate avutundi, extension ledu"
+        },
+        {
+          "k": "Application fee",
+          "v": "Ledu. Written examination kuda ledu, interview kuda ledu"
+        },
+        {
+          "k": "Selection",
+          "v": "Final qualifying examination lo vachina percentage batti merit list. Notified slots ki 1:5 ratio lo document verification ki pilustaru"
+        },
+        {
+          "k": "Eligibility",
+          "v": "Full-time regular Degree / Diploma / ITI. Application closing date naati ki moodu years lopu final exam result vachi undali"
+        },
+        {
+          "k": "Evaru apply cheyalevu",
+          "v": "Final examination results waiting lo unna vaallu. 17 years nindani vaallu. Eppudaina, ekkadaina apprenticeship training chesina leda chestunna vaallu"
+        },
+        {
+          "k": "Part-time or distance",
+          "v": "Part-time, correspondence, distance education leda online mode lo chesina qualification eligible kaadu"
+        },
+        {
+          "k": "Step 1 registration",
+          "v": "Degree and Diploma engineering ki NATS (nats.education.gov.in). ITI ki NAPS (apprenticeshipindia.gov.in). Profile 100 percent complete cheyali"
+        },
+        {
+          "k": "Step 2 application",
+          "v": "NATS / NAPS enrolment number vachaka recruitment.bemlindia.in lo Apprentices section lo apply cheyali. Vere e mode lo application accept cheyaru"
+        },
+        {
+          "k": "Okkate application",
+          "v": "Oka trade, oka location ki matrame. Rendu applications petti nate reject chestaru"
+        },
+        {
+          "k": "Bank account",
+          "v": "Aadhaar seeded, DBT enabled bank account undali. Name and date of birth 10th class certificate, Aadhaar, bank account anniti lo okate ga undali"
+        },
+        {
+          "k": "Training locations",
+          "v": "Bangalore Complex, Mysore Complex, KGF Complex (Karnataka), Palakkad Complex"
+        },
+        {
+          "k": "Application window",
+          "v": "18 August 2026 nunchi 8 September 2026, 2300 hrs varaku"
+        },
+        {
+          "k": "Important",
+          "v": "Notification lo clear ga rasi undi: apprenticeship complete ayina tarvata BEML lo employment ki elanti claim undadu. Idi training, job kaadu"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "recruitment.bemlindia.in",
+              "note": "Official BEML recruitment portal. Apprentices section lo Login / Registration",
+              "url": "https://recruitment.bemlindia.in/",
+              "primary": true
+            },
+            {
+              "label": "Detailed advertisement (PDF)",
+              "note": "Official 10-page advertisement L&D/01/2026 dated 18 August 2026",
+              "url": "https://www.bemlindia.in/wp-content/plugins/career/WCP/DATA//Writereaddata/Career/LND_012626_1.pdf"
+            },
+            {
+              "label": "NATS registration",
+              "note": "Degree and Diploma engineering vaallu mundu ikkada register cheyali",
+              "url": "https://nats.education.gov.in/"
+            },
+            {
+              "label": "NAPS registration",
+              "note": "ITI vaallu mundu ikkada register cheyali",
+              "url": "https://apprenticeshipindia.gov.in/"
+            },
+            {
+              "label": "BEML Careers page",
+              "note": "Official careers page, Current Recruitments section",
+              "url": "https://www.bemlindia.in/careers/"
+            }
+          ]
+        }
+      ],
+      "footNote": "Anni numbers 22 August 2026 na BEML official website lo verify chesanu. Slot numbers, stipend, eligibility anni official detailed advertisement (L&D/01/2026) nunchi. Application window and Registration Open status recruitment.bemlindia.in lo verify chesanu. Training slots provisional ani notification lo ne rasi undi. Complete terms and conditions, trade-wise slot table, reservation rules anni official advertisement lo unnayi, apply cheyyadaniki mundu adi purtiga chadavandi. Idi awareness kosam matrame. Ee page ki BEML tho gani government tho gani elanti sambandham ledu. Selection guarantee ledu, job guarantee ledu."
+    },
     {
       "slug": "iocl",
       "keyword": "IOCL",
