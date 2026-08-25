@@ -6,10 +6,101 @@
     "whatsappLabel": "Join the WhatsApp community",
     "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
     "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
-    "verifiedOn": "2026-08-24",
+    "verifiedOn": "2026-08-25",
     "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
   },
   "opportunities": [
+    {
+      "slug": "gate",
+      "keyword": "REGISTER",
+      "title": "GATE 2027 Registration",
+      "subtitle": "Applications August 27 nunchi. DigiLocker verified account mandatory. Last date September 27, late fee tho October 5.",
+      "expiresOn": "2026-10-05",
+      "expiryNote": "Regular registration September 27, 2026 ki close avutundi. Late fee tho October 5, 2026 varaku. Aa taruvata ee page automatic ga expire avutundi.",
+      "facts": [
+        {
+          "k": "Organizing Institute",
+          "v": "Indian Institute of Technology Madras (IIT Madras), National Coordination Board, Ministry of Education prakaram"
+        },
+        {
+          "k": "Registration opens",
+          "v": "27 August 2026. GATE Online Application Processing System (GOAPS) ade rojuna live avutundi"
+        },
+        {
+          "k": "Last date (no late fee)",
+          "v": "27 September 2026"
+        },
+        {
+          "k": "Last date (with late fee)",
+          "v": "5 October 2026"
+        },
+        {
+          "k": "DigiLocker rule",
+          "v": "GATE 2027 registration DigiLocker dwara mandatory, andaru Indian nationals ki. Name, date of birth, mobile number, email ID, profile picture, address, verified ID card number DigiLocker nunchi teesukuntaru. Munduga verified DigiLocker account create leda update chesukondi"
+        },
+        {
+          "k": "Eligibility",
+          "v": "Undergraduate degree program lo 3rd year leda ade paina chaduvutunna vaallu, leda Engineering, Technology, Architecture, Science, Commerce, Arts, Humanities lo government approved degree complete chesina vaallu eligible"
+        },
+        {
+          "k": "Application fee (regular period)",
+          "v": "Female, SC, ST, PwD candidates Rs 1,000 per test paper. Migatha andariki Rs 2,000 per test paper"
+        },
+        {
+          "k": "Application fee (extended period)",
+          "v": "Female, SC, ST, PwD Rs 1,500 per test paper. Migatha andariki Rs 2,500 per test paper. Rendu papers rasthe fee rettimpu"
+        },
+        {
+          "k": "Test papers",
+          "v": "30 test papers. Robotics and Automation (RA) ani kotha paper ee sari add chesaru. Syllabi revise chesaru, official syllabus okasari chadavandi"
+        },
+        {
+          "k": "Exam dates",
+          "v": "6, 7 February 2027 (Week 1), 13, 14 February 2027 (Week 2), 20, 21 February 2027 (Week 3)"
+        },
+        {
+          "k": "Result",
+          "v": "19 March 2027"
+        },
+        {
+          "k": "Score validity",
+          "v": "3 years"
+        },
+        {
+          "k": "Score enduku",
+          "v": "MoE supported institutions lo postgraduate and doctoral programs admission ki, financial assistance tho. Anni PSUs kuda GATE score ni recruitment ki vaadatayi"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "GATE 2027 official website",
+              "note": "IIT Madras official site. Important Dates, syllabus, GOAPS link ikkade",
+              "url": "https://gate2027.iitm.ac.in/",
+              "primary": true
+            },
+            {
+              "label": "Eligibility Criteria",
+              "note": "Official eligibility page",
+              "url": "https://gate2027.iitm.ac.in/eligibility_criteria"
+            },
+            {
+              "label": "Application Fees",
+              "note": "Official fee table",
+              "url": "https://gate2027.iitm.ac.in/application_fees"
+            },
+            {
+              "label": "DigiLocker",
+              "note": "Verified DigiLocker account ikkada create leda update chesukondi",
+              "url": "https://www.digilocker.gov.in/"
+            }
+          ]
+        }
+      ],
+      "footNote": "Anni dates, fees, eligibility 25 August 2026 na GATE 2027 official website (gate2027.iitm.ac.in) lo verify chesanu. Official site prakaram dates liable to change. Registration date munduga 14 August ga cheppi, taruvata 27 August ki reschedule chesaru, so official site ne malli okasari chudandi. Complete rules, syllabus, two-paper combinations anni official Information Brochure lo unnayi, apply cheyyadaniki mundu adi chadavandi. Idi awareness kosam matrame. Ee page ki IIT Madras tho gani government tho gani elanti sambandham ledu. Selection guarantee ledu."
+    },
     {
       "slug": "rocket",
       "keyword": "ROCKET",
