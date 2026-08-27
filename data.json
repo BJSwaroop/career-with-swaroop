@@ -1170,6 +1170,101 @@
         }
       ],
       "footNote": "Diploma students ki separate Saksham scheme undi, adhi kuda NSP lo ade date varaku open undi. Renewal ki prathi year marksheet upload cheyali. Class fail ayithe scholarship pothundi."
+    },
+    {
+      "slug": "pgcil",
+      "keyword": "PGCIL",
+      "title": "POWERGRID Apprenticeship 2026-27 (Telangana & AP)",
+      "subtitle": "ITI, Diploma, Graduate Electrical/Civil apprentices. Stipend Rs 13,500 to Rs 17,500 per month. No exam, no interview. Last date September 10.",
+      "expiresOn": "2026-09-10",
+      "expiryNote": "Online registration September 10, 2026 tho close avutundi.",
+      "facts": [
+        {
+          "k": "Company",
+          "v": "Power Grid Corporation of India Limited (POWERGRID), a Maharatna Enterprise under the Ministry of Power, Government of India"
+        },
+        {
+          "k": "Advertisement reference",
+          "v": "Southern Region-I (Secunderabad), Ref No. Apprenticeship/2026-27/SR-I/01, dated 21 August 2026. POWERGRID kuda ee 12 regions lo (pan-India) ee drive run chestundi, total 270 slots approx"
+        },
+        {
+          "k": "Telangana slots (SR-I)",
+          "v": "Total 8: ITI-Electrician 2, Diploma Civil 1, Diploma Electrical 4, Graduate Electrical 1"
+        },
+        {
+          "k": "Andhra Pradesh slots (SR-I)",
+          "v": "Total 14: ITI-Electrician 3, Diploma Civil 3, Diploma Electrical 6, Graduate Electrical 2"
+        },
+        {
+          "k": "Stipend",
+          "v": "ITI Electrician Rs 13,500 per month. Diploma (Civil/Electrical) Rs 15,000 per month (including Rs 5,450 DBT from Govt of India under NATS). Graduate Electrical Rs 17,500 per month (including Rs 6,150 DBT). Company accommodation ivvakapothe additional Rs 2,500 per month HRA"
+        },
+        {
+          "k": "Selection",
+          "v": "No written exam, no interview, no application fee. Purely merit list based on percentage marks in qualifying exam. Shortlisted candidates called for document verification in 1:5 ratio to training slots"
+        },
+        {
+          "k": "Eligibility",
+          "v": "Full-time regular ITI / Diploma / Degree, result declared between 11 September 2024 and 10 September 2026 (within 2 years of closing date). Part-time, correspondence, distance or online mode qualifications NOT eligible"
+        },
+        {
+          "k": "Evaru apply cheyalevu",
+          "v": "Final exam result kosam wait chestunna vaallu. 18 years nindani vaallu. Ala munde apprenticeship training chesina leda chestunna vaallu. 1 year kanna ekkuva job experience unna vaallu"
+        },
+        {
+          "k": "Duration",
+          "v": "1 year, joining date nunchi. Co-terminates automatically, extension ledu"
+        },
+        {
+          "k": "Step 1 registration",
+          "v": "ITI (Electrician) ki NAPS (apprenticeshipindia.gov.in). Diploma/Degree (Civil, Electrical) ki NATS (nats.education.gov.in). Profile 100 percent complete cheyali"
+        },
+        {
+          "k": "Step 2 application",
+          "v": "NAPS/NATS enrolment number vachaka www.powergrid.in lo Careers to Engagement of Apprentices section lo apply cheyali. Vere mode lo application accept cheyaru"
+        },
+        {
+          "k": "Okkate application",
+          "v": "Oka region/state ki matrame apply cheyali. Rendu applications petti nate reject chestaru"
+        },
+        {
+          "k": "Application window",
+          "v": "25 August 2026 nunchi 10 September 2026 varaku"
+        },
+        {
+          "k": "Important",
+          "v": "Apprenticeship complete ayina tarvata POWERGRID lo employment ki elanti claim undadu. Idi training, job kaadu"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "powergrid.in - Engagement of Apprentices",
+              "note": "Official POWERGRID apprenticeship page with all 13 regional detailed advertisements",
+              "url": "https://www.powergrid.in/en/rolling-advertisement-for-enagagement-of-apprentices",
+              "primary": true
+            },
+            {
+              "label": "SR-I Detailed Advertisement (PDF)",
+              "note": "Official advertisement for Telangana & Andhra Pradesh (Southern Region-I, Secunderabad)",
+              "url": "https://www.powergrid.in/sites/default/files/apprentices_document/SR-1%20Detailed%20Advertisement.pdf"
+            },
+            {
+              "label": "NAPS registration",
+              "note": "ITI candidates mundu ikkada register cheyali",
+              "url": "https://apprenticeshipindia.gov.in/"
+            },
+            {
+              "label": "NATS registration",
+              "note": "Diploma / Degree candidates mundu ikkada register cheyali",
+              "url": "https://nats.education.gov.in/"
+            }
+          ]
+        }
+      ],
+      "footNote": "Anni numbers 27 August 2026 na powergrid.in official website nunchi, mariyu SR-I (Telangana & Andhra Pradesh) detailed advertisement PDF nunchi verify chesanu. Slot numbers provisional ani notification lo ne rasi undi, company actual requirement batti maaravachu. Complete terms, trade-wise slot table, reservation rules anni official advertisement lo unnayi, apply cheyyadaniki mundu adi purtiga chadavandi. Idi awareness kosam matrame. Ee page ki POWERGRID tho gani government tho gani elanti sambandham ledu. Selection guarantee ledu, job guarantee ledu."
     }
   ]
 }
