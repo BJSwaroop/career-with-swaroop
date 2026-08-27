@@ -6,10 +6,79 @@
     "whatsappLabel": "Join the WhatsApp community",
     "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
     "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
-    "verifiedOn": "2026-08-25",
+    "verifiedOn": "2026-08-27",
     "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
   },
   "opportunities": [
+    {
+      "slug": "scholar",
+      "keyword": "SCHOLAR",
+      "title": "Reliance Foundation UG Scholarship 2026-27",
+      "subtitle": "Rs 2,00,000 varaku, degree mottham ki. 5,000 scholarships. Last date 5 October 2026.",
+      "expiresOn": "2026-10-05",
+      "expiryNote": "Application window 5 October 2026, 11:59 PM IST tho close avutundi. Extension undadu.",
+      "facts": [
+        {
+          "k": "Amount",
+          "v": "Up to Rs 2,00,000 over the full duration of the degree, paid as a yearly grant. Tuition, hostel, laptop, books ki vaadochu"
+        },
+        {
+          "k": "Seats",
+          "v": "5,000 undergraduate scholarships for 2026-27"
+        },
+        {
+          "k": "Who can apply",
+          "v": "Students in 1st year (academic year 2026-27) of a regular full-time degree in ANY stream. BTech, BSc, BCom, BA, edaina. Class 12 lo minimum 60% marks"
+        },
+        {
+          "k": "Income",
+          "v": "Household income Rs 15 lakh or less (only parents' income counts). Preference to below Rs 2.5 lakh"
+        },
+        {
+          "k": "Institution",
+          "v": "NAAC-accredited or UGC-recognised institution in India"
+        },
+        {
+          "k": "Not eligible",
+          "v": "2nd year and above, online/distance mode students, 2-year and 6-year UG programmes"
+        },
+        {
+          "k": "Selection",
+          "v": "Mandatory online aptitude test: 60 MCQs in 60 minutes (verbal + logical + numerical), Class 12 level. Remotely proctored, intlo nunche attempt cheyochu. Mock test istaru. Only ONE attempt allowed"
+        },
+        {
+          "k": "Fee",
+          "v": "Zero. No fee at any stage"
+        },
+        {
+          "k": "Last date",
+          "v": "5 October 2026, 11:59 PM IST"
+        },
+        {
+          "k": "Results",
+          "v": "By end of December 2026"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "scholarships.reliancefoundation.org",
+              "note": "Official portal. Register first, application link email lo vastundi. Personal email vaadandi, college email kadu.",
+              "url": "https://scholarships.reliancefoundation.org/",
+              "primary": true
+            },
+            {
+              "label": "UG Scholarship FAQ (PDF)",
+              "note": "Official FAQ with all rules",
+              "url": "https://www.scholarships.reliancefoundation.org/assets/pdf/UG_FAQ.pdf"
+            }
+          ]
+        }
+      ],
+      "footNote": "Bank account mee own name lo undali (selection tarvata scholarship deeniloke vastundi). Bank + PAN details 18 October 2026 lopu portal lo submit cheyali. PAN lekapothe ippude apply cheyandi, minor PAN kuda ok. Doubts unte official WhatsApp help: +91 79771 00100 ki Hi ani pampandi."
+    },
     {
       "slug": "gate",
       "keyword": "REGISTER",
