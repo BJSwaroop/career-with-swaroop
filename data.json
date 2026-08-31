@@ -6,7 +6,7 @@
     "whatsappLabel": "Join the WhatsApp community",
     "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
     "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
-    "verifiedOn": "2026-08-27",
+    "verifiedOn": "2026-08-31",
     "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
   },
   "opportunities": [
@@ -1265,6 +1265,63 @@
         }
       ],
       "footNote": "Anni numbers 27 August 2026 na powergrid.in official website nunchi, mariyu SR-I (Telangana & Andhra Pradesh) detailed advertisement PDF nunchi verify chesanu. Slot numbers provisional ani notification lo ne rasi undi, company actual requirement batti maaravachu. Complete terms, trade-wise slot table, reservation rules anni official advertisement lo unnayi, apply cheyyadaniki mundu adi purtiga chadavandi. Idi awareness kosam matrame. Ee page ki POWERGRID tho gani government tho gani elanti sambandham ledu. Selection guarantee ledu, job guarantee ledu."
+    },
+    {
+      "slug": "girlscholar",
+      "keyword": "GIRLSCHOLAR",
+      "title": "AICTE Pragati Scholarship for Girl Students 2026-27",
+      "subtitle": "Rs 50,000 per year. Andhra Pradesh ki 566 seats, Telangana ki 424 seats. Last date 31 October 2026.",
+      "expiresOn": "2026-10-31",
+      "expiryNote": "NSP lo application window 31 October 2026 tho close avutundi.",
+      "facts": [
+        {
+          "k": "Amount",
+          "v": "Rs 50,000 per year, as lump sum for college fee, laptop, books, stationery. Maximum 4 years for 1st year admits, 3 years if admitted via 2nd year lateral entry"
+        },
+        {
+          "k": "Seats (Andhra Pradesh and Telangana)",
+          "v": "5,000 scholarships per year nationally, distributed state-wise. Andhra Pradesh 566, Telangana 424 (per the official AICTE state-wise distribution annexure)"
+        },
+        {
+          "k": "Who can apply",
+          "v": "Girl students admitted to 1st year of a Degree course, OR 2nd year through lateral entry, in an AICTE approved technical institution. Maximum 2 girls per family"
+        },
+        {
+          "k": "Income",
+          "v": "Family income Rs 8 lakh or less per year, with a valid State/UT income certificate"
+        },
+        {
+          "k": "Selection",
+          "v": "Purely on merit of the qualifying exam (Class 12 or equivalent percentage). State-wise merit list prepared as per the seat quota above"
+        },
+        {
+          "k": "Important condition",
+          "v": "You must NOT be receiving any other scholarship, stipend or salary during the course. If you do, the scholarship will be discontinued and the amount must be refunded"
+        },
+        {
+          "k": "Last date",
+          "v": "31 October 2026 (student application on NSP)"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "scholarships.gov.in",
+              "note": "National Scholarship Portal. OTR first, then apply.",
+              "url": "https://scholarships.gov.in/",
+              "primary": true
+            },
+            {
+              "label": "Scheme guidelines (PDF)",
+              "note": "Official AICTE Pragati guidelines (Degree)",
+              "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_G.pdf"
+            }
+          ]
+        }
+      ],
+      "footNote": "Amounts and state-wise seat numbers verified from the official AICTE Pragati (Technical Degree) guidelines PDF on scholarships.gov.in, 31 August 2026. Diploma chaduvutunna ammayilaki separate Pragati-Diploma scheme undi, adhi kuda NSP lo ade last date tho open undi. Full eligibility conditions, required documents and tie-breaking rules official guidelines PDF lo unnayi, apply cheyyadaniki mundu adi chadavandi. Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki AICTE tho gani government tho gani elanti sambandham ledu. Selection guarantee ledu."
     }
   ]
 }
