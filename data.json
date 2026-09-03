@@ -6,10 +6,76 @@
     "whatsappLabel": "Join the WhatsApp community",
     "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
     "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
-    "verifiedOn": "2026-09-01",
+    "verifiedOn": "2026-09-0103
     "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
   },
   "opportunities": [
+    {
+      "slug": "sscje",
+      "keyword": "SSCJE",
+      "title": "SSC Junior Engineer Examination 2026",
+      "subtitle": "1,748 posts across 14 government departments. Diploma or degree, Civil/Mechanical/Electrical/Telecom. Fee just Rs 100. Last date September 22.",
+      "expiresOn": "2026-09-22",
+      "expiryNote": "Online application September 22, 2026 raatri 11 PM (23:00 hours) ki close avutundi. Fee payment ki September 23 varaku time undi.",
+      "facts": [
+        {
+          "k": "Notice",
+          "v": "F.No. HQ-C-3019/1/2026-C-3, released on ssc.gov.in on 2 September 2026"
+        },
+        {
+          "k": "Total vacancies",
+          "v": "1,748 tentative, across 14 organizations: Border Roads Organisation, Brahmaputra Board, Central Water Commission, CPWD, Central Water and Power Research Station, DGQA-Naval (Ministry of Defence), Farakka Barrage Project, Military Engineer Services, National Technical Research Organisation, DG Lighthouses and Lightships, Department of Telecommunications, India Meteorological Department, Ministry of Fisheries"
+        },
+        {
+          "k": "Post and pay",
+          "v": "Junior Engineer (Civil/Mechanical/Electrical/Electrical and Mechanical/Telecom) and Scientific Assistant (IMD). Group B, Level-6 Pay Matrix, Rs 35,400 to Rs 1,12,400 basic"
+        },
+        {
+          "k": "Eligibility",
+          "v": "Degree or 3-year diploma in the relevant engineering discipline. Some organizations (BRO, MES) need 2 years experience if only diploma-qualified. IMD Scientific Assistant needs a BSc with Physics, or BSc Computer Science/Electronics/Instrumentation/IT/Telecom. Qualification result must be declared on or before 22 September 2026 - final-year students awaiting results are not eligible this cycle"
+        },
+        {
+          "k": "Age limit",
+          "v": "Up to 30 years for most posts, up to 32 years for CPWD and DG Lighthouses and Lightships posts. Reckoned as on 1 August 2026. Relaxation: SC/ST 5 years, OBC 3 years, PwBD 10-15 years, Ex-servicemen 3 years"
+        },
+        {
+          "k": "Application fee",
+          "v": "Rs 100. Women, SC, ST, PwBD and Ex-servicemen candidates are exempted. Payment window closes 23 September 2026, 23:00 hours"
+        },
+        {
+          "k": "Selection process",
+          "v": "Computer Based Examination Paper-I (tentatively October/November 2026) and Paper-II (tentatively December 2026)"
+        },
+        {
+          "k": "AP and Telangana exam centres",
+          "v": "Guntur, Kakinada, Kurnool, Nellore, Rajahmundry, Tirupathi, Vijayawada, Visakhapatnam, Hyderabad, Karimnagar, Warangal, Srikakulam, Eluru, Siddipet"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "SSC online application portal",
+              "note": "Official application form. Open 2 to 22 September 2026",
+              "url": "https://ssc.gov.in/ApplicationForm/jemecform",
+              "primary": true
+            },
+            {
+              "label": "Notice of Examination (PDF)",
+              "note": "Official notice, F.No. HQ-C-3019/1/2026-C-3, all 14 organizations and post-wise eligibility",
+              "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf"
+            },
+            {
+              "label": "SSC official website",
+              "note": "ssc.gov.in home, for OTR registration and updates",
+              "url": "https://ssc.gov.in/"
+            }
+          ]
+        }
+      ],
+      "footNote": "State-wise leda zone-wise vacancy split SSC publish cheyadu. Ee vivaralu kosam concerned department ni contact avvali."
+    },
     {
       "slug": "orbit",
       "keyword": "ORBIT",
