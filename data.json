@@ -6,10 +6,67 @@
     "whatsappLabel": "Join the WhatsApp community",
     "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
     "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
-    "verifiedOn": "2026-09-03",
+    "verifiedOn": "2026-09-13",
     "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
   },
   "opportunities": [
+    {
+      "slug": "tcsnqt",
+      "keyword": "QUALIFY",
+      "title": "TCS iON National Qualifier Test (NQT), October 2026 Cycle",
+      "subtitle": "1.6 lakh IT and non-IT jobs across 4,000+ companies. Any stream, any degree. Test October 19, apply before October 7.",
+      "expiresOn": "2026-10-07",
+      "expiryNote": "Registration October 7, 2026 ki close avutundi, ee October exam cycle kosam. TCS iON NQT prathi 2-4 vaarala ki oka sari untundi, so ee cycle miss aithe next batch kosam tcsion.com chudandi.",
+      "facts": [
+        {
+          "k": "Test dates",
+          "v": "Apply before 7 October 2026. Test conducted on 19 October 2026 at TCS iON Authorised Exam Centres. Verified on tcsion.com on 13 September 2026"
+        },
+        {
+          "k": "Who can apply",
+          "v": "Pre-final year or final year students of any stream or degree. Students passing out between 2022 and 2028 who are looking for a job. Working professionals with up to 2 years of experience"
+        },
+        {
+          "k": "What the score gets you",
+          "v": "A TCS iON NQT Score valid for 2 years, accepted by 4,000+ corporates across 23+ industries. Access to 1.6 lakh+ jobs: 20+ IT roles and 150+ non-IT roles (Software Developer, Full Stack Developer, Cloud Engineer, Sales Executive, Business Analyst, HR Specialist and more)"
+        },
+        {
+          "k": "Package range",
+          "v": "TCS iON's own published range for the IT track is Rs 3 lakh to Rs 8 lakh per annum. Actual package depends on the hiring company and role"
+        },
+        {
+          "k": "Fee",
+          "v": "Paid test, not free. TCS iON NQT Cognitive and Non-Tech variants start at Rs 599 (MRP Rs 800). IT variant Rs 999 (MRP Rs 1,598). BFSI variant Rs 999 (MRP Rs 1,598). Prices inclusive of taxes, as listed on tcsion.com"
+        },
+        {
+          "k": "Test format",
+          "v": "English language only. No negative marking. Conducted every 2-4 weeks at TCS iON Authorised Exam Centres only"
+        },
+        {
+          "k": "How selection works",
+          "v": "Appear for the test, get your TCS iON NQT Score, then apply separately to jobs listed on the TCS iON NQT website and on each partner corporate's own website. This is not a guaranteed TCS job; the score is what over 4,000 companies use to shortlist candidates"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "TCS iON NQT official page",
+              "note": "Test dates, eligibility, fee packages and registration login. Verified 13 September 2026",
+              "url": "https://www.tcsion.com/hub/national-qualifier-test/",
+              "primary": true
+            },
+            {
+              "label": "Eligibility criteria and FAQs",
+              "note": "TCS Campus Commune's official FAQ page for TCS NQT",
+              "url": "https://campuscommune.tcs.com/en-in/intro/view_blog/eligibility-criteria-and-faqs-nqt"
+            }
+          ]
+        }
+      ],
+      "footNote": "Idi TCS job guarantee kaadu. Ee score tho 4,000+ companies ki apply chese avakasham vastundi, selection prathi company ni batti untundi. Fee paid test, free kaadu."
+    },
     {
       "slug": "sscje",
       "keyword": "SSCJE",
