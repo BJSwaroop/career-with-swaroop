@@ -6,10 +6,87 @@
     "whatsappLabel": "Join the WhatsApp community",
     "whatsappNote": "Prathi roju kotha opportunities ikkade post chestha. Free.",
     "disclaimer": "Idi awareness kosam matrame. Apply meeru ne cheyali. Ee page ki government tho elanti sambandham ledu. Selection guarantee ledu.",
-    "verifiedOn": "2026-09-13",
+    "verifiedOn": "2026-09-25",
     "baseUrl": "https://bjswaroop.github.io/career-with-swaroop"
   },
   "opportunities": [
+    {
+      "slug": "aqua",
+      "keyword": "AQUA",
+      "title": "TGPSC Manager (Engineering) Recruitment 2026, HMWSSB",
+      "subtitle": "130 posts. Basic pay Rs 54,220 per month. Application opens September 23, last date October 17.",
+      "expiresOn": "2026-10-17",
+      "expiryNote": "Online application window opens 23 September 2026 and closes 17 October 2026, 5:00 PM.",
+      "facts": [
+        {
+          "k": "Advertisement",
+          "v": "Notification No. 04/OG/HM/2026, dated 18 September 2026. Direct recruitment for Manager (Engineering) in Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB), Multi-Zone-II"
+        },
+        {
+          "k": "Vacancies",
+          "v": "130"
+        },
+        {
+          "k": "Pay scale",
+          "v": "Rs 54,220 to Rs 1,33,630"
+        },
+        {
+          "k": "Eligibility",
+          "v": "A Graduate in Engineering. 80 percent of posts for Civil Engineering, 15 percent for Electrical/Mechanical Engineering, 5 percent for CSE/IT/ECE Engineering"
+        },
+        {
+          "k": "Qualification cut-off",
+          "v": "The academic qualification must already be completed as on the date of notification, 18 September 2026. Results awaited or final-year students are not eligible for this cycle"
+        },
+        {
+          "k": "Age",
+          "v": "18 to 44 years as on 01 July 2026 (upper limit raised from 34 to 44 per G.O.Ms.No.86, dated 18 May 2026). SC/ST/BC/EWS get 5 years relaxation, PwD 10 years"
+        },
+        {
+          "k": "Application fee",
+          "v": "Rs 1,000 for OC and BC applicants, Rs 500 for SC, ST and PwD applicants"
+        },
+        {
+          "k": "Examination fee",
+          "v": "Rs 120, waived for unemployed applicants. Government employees must pay it"
+        },
+        {
+          "k": "Application window",
+          "v": "23 September 2026 to 17 October 2026, 5:00 PM"
+        },
+        {
+          "k": "Exam",
+          "v": "Objective type, tentatively December 2026. Centres: Hyderabad, Nalgonda, Sangareddy, Mahaboobnagar"
+        },
+        {
+          "k": "Local reservation",
+          "v": "95 percent of posts reserved for local candidates under Multi-Zone-II"
+        },
+        {
+          "k": "How to apply",
+          "v": "Register or log in with One Time Registration (OTR) at tgpsc.gov.in, then fill the online application and pay the fee via net banking, debit card, credit card or UPI"
+        }
+      ],
+      "linkGroups": [
+        {
+          "heading": "Apply here",
+          "links": [
+            {
+              "label": "tgpsc.gov.in",
+              "note": "Official TGPSC portal. OTR registration and Online Application link here",
+              "url": "https://www.tgpsc.gov.in/",
+              "primary": true
+            },
+            {
+              "label": "Detailed notification (PDF)",
+              "note": "Official Notification No. 04/OG/HM/2026, dated 18 September 2026, with full vacancy break-up and eligibility rules",
+              "url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGTi4gMDQtT0ctSE0tMjAyNi1NQU5BR0VSSE1XU1NCMjAyNjA5MTgxNzM0NDgucGRmr95v17a0y2d8i13v"
+            }
+          ]
+        }
+      ],
+      "footNote": "All numbers verified on 25 September 2026 from the official TGPSC notification (Notification No. 04/OG/HM/2026, dated 18 September 2026) at websitenew.tgpsc.gov.in. Vacancy count, pay scale, eligibility, age and fee are all from the official notification PDF. Complete reservation rules, local candidate definition and the full scheme of examination are in the official notification, read it fully before applying. Idi awareness kosam matrame. Ee page ki TGPSC tho gani government tho gani elanti sambandham ledu. Selection guarantee ledu."
+    },
     {
       "slug": "tcsnqt",
       "keyword": "QUALIFY",
